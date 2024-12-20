@@ -1,0 +1,4 @@
+firmware/Microchip.*.zip
+firmware/microchip_out/
+*.hex
+*.elf
